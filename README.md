@@ -1,5 +1,7 @@
 # Photopic Luminous Efficiency Function
 
+An aproximation of the empirical data on how is visible light percived by humans, written in Fortran
+
 ## Requiments:
 
 - gfortran
@@ -12,6 +14,5 @@ chmod +x build_run.sh
 ./build_run.sh
 ```
 
-Written in Fortran
 
 <img src="v_lambda_plot.png">
